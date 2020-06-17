@@ -1,4 +1,8 @@
-# AB_TEST
+# Data_Analyst_Nanodegree
 
-Step by step implementation of an A/B test for an e-commerce website and analysis of the results.
-This project is part of Udacity's Data Analyst Nanodegree.
+Projects completed as part of Udacity's Data Analyst Nanodegree
+- Investigate a dataset (Movie ratings)
+- A/B Test for e-commerce store
+- Data Wrangling - WeRateDogs Twitter
+- San Francisco bike-sharing system - Data Visualization 
+
